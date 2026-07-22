@@ -1,0 +1,80 @@
+{
+  "cesp_version": "1.0",
+  "name": "vegeta_dbz",
+  "display_name": "Vegeta (Dragon Ball Z)",
+  "version": "1.0.0",
+  "author": { "name": "Alex Lupu", "github": "alexlupu3" },
+  "license": "MIT",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/LetsGo.mp3", "label": "Let's go" },
+        { "file": "sounds/LetsGiveItATry.mp3", "label": "Let's give it a try, shall we?" },
+        { "file": "sounds/ShallWeCommence.mp3", "label": "How about it, shall we commence?" },
+        { "file": "sounds/TruePower.mp3", "label": "Now I'm going to show you what true power really is" },
+        { "file": "sounds/AreYouReady.mp3", "label": "Are you ready now to witness a power not seen for thousands of years?" },
+        { "file": "sounds/SoundsInteresting.mp3", "label": "That sounds interesting" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/SoBeIt.mp3", "label": "So be it" },
+        { "file": "sounds/MyOnlyObjective.mp3", "label": "Kakarot is my only objective" },
+        { "file": "sounds/WontBeDistracted.mp3", "label": "I will not be distracted from this anymore" },
+        { "file": "sounds/YourFightIsWithMe.mp3", "label": "Your fight is with me, the others are of no concern to you" },
+        { "file": "sounds/LetKakarot.mp3", "label": "Let Kakarot use his thoughtless ultra instinct all he wants" },
+        { "file": "sounds/NotWhyImHere.mp3", "label": "That's not why I'm here" },
+        { "file": "sounds/GotYouFiguredOut.mp3", "label": "I've got you figured out" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/ThatllBeAll.mp3", "label": "That'll be all" },
+        { "file": "sounds/ImFinishingThis.mp3", "label": "You can thank me by staying out of this fight from now on, I'm finishing this" },
+        { "file": "sounds/Over9000.mp3", "label": "It's over 9000!" },
+        { "file": "sounds/FinalFlash.mp3", "label": "Final Flash!" },
+        { "file": "sounds/YesThatsRight.mp3", "label": "Yes! That's right!" },
+        { "file": "sounds/DamnRight.mp3", "label": "You say I'm arrogant, I say damn right!" },
+        { "file": "sounds/ThatsRightMyFriend.mp3", "label": "That's right, my friend" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/NotWinningEasily.mp3", "label": "What's the matter, not winning as easily as you thought?" },
+        { "file": "sounds/MoreThanHeadgames.mp3", "label": "It will take more than headgames to stop me" },
+        { "file": "sounds/NaiveIdiot.mp3", "label": "I guess you'll always be a naive idiot" },
+        { "file": "sounds/BoneHeadedCreator.mp3", "label": "Your bone-headed creator picked a fine chapter to omit from your memory banks" },
+        { "file": "sounds/StillThinkImBluffing.mp3", "label": "So you still think I'm bluffing?" },
+        { "file": "sounds/CantAcceptThat.mp3", "label": "Thanks for the offer, but I can't" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/TellMe.mp3", "label": "There's one thing I'd like to know, tell me" },
+        { "file": "sounds/IsThisWhatYouWant.mp3", "label": "Is this what you want?" },
+        { "file": "sounds/ExperienceFear.mp3", "label": "Does a machine like yourself ever experience fear?" },
+        { "file": "sounds/WhisWarnedYou.mp3", "label": "Whis tried to warn you, and yet here you are" },
+        { "file": "sounds/FinallyUnderstand.mp3", "label": "I think I finally understand you" },
+        { "file": "sounds/UnderstandPerfectly.mp3", "label": "Oh, I think I understand just perfectly" },
+        { "file": "sounds/WontSurrender.mp3", "label": "I won't surrender control, that's not the man I am!" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/TimeIsUp.mp3", "label": "I come to tell you, your time is up" },
+        { "file": "sounds/BiggerThings.mp3", "label": "You've got bigger things to worry about" },
+        { "file": "sounds/GetOutHurry.mp3", "label": "Get out of here, and hurry!" },
+        { "file": "sounds/StolenHonor.mp3", "label": "He has stolen my honor" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/NoMoreInterruptions.mp3", "label": "There will be no more interruptions" },
+        { "file": "sounds/NotInPosition.mp3", "label": "Come now, you are not in a position to be giving me orders, now are you?" },
+        { "file": "sounds/Manners.mp3", "label": "Didn't anyone teach you any manners?" },
+        { "file": "sounds/ImGoingToCrushYou.mp3", "label": "I'm going to crush you" }
+      ]
+    }
+  }
+}
