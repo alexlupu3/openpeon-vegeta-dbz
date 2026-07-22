@@ -4,7 +4,7 @@
   "display_name": "Vegeta (Dragon Ball Z)",
   "version": "1.0.0",
   "author": { "name": "Alex Lupu", "github": "alexlupu3" },
-  "license": "MIT",
+  "license": "fair-use",
   "language": "en",
   "categories": {
     "session.start": {

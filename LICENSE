@@ -1,29 +1,26 @@
-MIT License
+Fair-Use Notice — Vegeta (Dragon Ball Z) OpenPeon Sound Pack
 
-Copyright (c) 2026 Alex Lupu
+This pack is a non-commercial fan work distributed under a claim of fair use.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The audio clips contained in the `sounds/` directory are short excerpts of
+voice lines from *Dragon Ball Z* / *Dragon Ball Super*, © Toei Animation /
+Funimation / their respective rights holders. The English dub voice of Vegeta
+is performed by Christopher Sabat.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+These excerpts are included here solely for:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  - non-commercial, personal, fan/hobbyist use, and
+  - a transformative purpose (brief audio notifications for AI coding agents),
 
----
+using only the short portions necessary for that purpose.
 
-NOTE ON AUDIO ASSETS: The MIT license above applies to the pack manifest,
-structure, and any tooling in this repository. The audio clips in the sounds/
-directory are voice lines from Dragon Ball Z / Dragon Ball Super and remain
-the property of their respective rights holders (Toei Animation, Funimation,
-et al.). They are provided for non-commercial, fan/hobbyist use only.
+No ownership of or copyright over the audio clips is claimed by this pack or
+its author, and the clips are not relicensed. This project is not affiliated
+with, sponsored by, or endorsed by the rights holders.
+
+The manifest (`openpeon.json`), documentation, and structure of this pack were
+assembled by Alex Lupu (https://github.com/alexlupu3) and are offered freely
+for non-commercial use.
+
+If you are a rights holder and would like a clip removed, please open an issue
+on the repository and it will be taken down.

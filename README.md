@@ -43,6 +43,6 @@ Each category holds several clips; peon-ping picks one at random, so it stays fr
 
 ## License
 
-Pack manifest, structure, and tooling are released under the [MIT License](LICENSE).
+This pack is distributed as a **fair-use** fan work. See [`LICENSE`](LICENSE) for the full notice.
 
-The audio clips are voice lines from *Dragon Ball Z* / *Dragon Ball Super*, © Toei Animation / Funimation / their respective rights holders. They are included here for non-commercial, fan/hobbyist use only. This project is not affiliated with or endorsed by the rights holders. If you own the rights and want a clip removed, open an issue.
+The audio clips are voice lines from *Dragon Ball Z* / *Dragon Ball Super*, © Toei Animation / Funimation / their respective rights holders. They are included here in short excerpts for non-commercial, fan/hobbyist, and transformative (notification) use only. No copyright claim is made over the clips and they are not relicensed. This project is not affiliated with or endorsed by the rights holders. If you own the rights and want a clip removed, open an issue.
